@@ -1,1 +1,8 @@
-hallo
+hallo,
+
+
+wie geht es ?
+
+heute scheint die Sonne!
+
+Morgen soll es Regen geben.
