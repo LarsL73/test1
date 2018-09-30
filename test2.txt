@@ -1,6 +1,12 @@
 hallo user
 
+wie geht es ?
+
 dies ist eine testzeile.
 
 Und hier kommt noch eine neue Zeile.
 
+
+heute scheint die Sonne!
+
+Morgen soll es Regen geben.
